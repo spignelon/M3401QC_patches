@@ -3,5 +3,5 @@ Patches for normal functioning of GNU/Linux Operating System in Asus Vivobook pr
 
 - [keyd](https://github.com/rvaiya/keyd) config at `/etc/keyd/default.conf` = [keyd.conf](https://raw.githubusercontent.com/spignelon/M3401QC_patches/main/keyd.conf)    (**keyboard patches**)
   - fixes `mute, volumedown, volumeup, brightnessdown, brightnessup` keys, from f1 to f5
-  - f9 is mapped to micmute (doesn't seem to work)
+  - f9 is mapped to micmute _(doesn't seem to work)_
   - f6 and f8 are remapped to `copy` and `paste` for the sake of convenience 
